@@ -31,3 +31,4 @@ hero1.rest()
 hero2.greet()
 hero2.attack()
 hero2.rest()
+#test
